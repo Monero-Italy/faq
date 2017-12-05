@@ -13,4 +13,6 @@ https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet
 
 Diffidate di progetti esterni che non sono garantiti dalla community di Monero, basta infatti una semplice ricerca sul web per capire se un progetto è una truffa (anche chiamato progetto scam).
 
-Se invece non volete installare alcun wallet, esiste il web wallet per eccellenza, sviluppato da uno degli sviluppatori principali fluffypony
+Se invece non volete installare alcun wallet, esiste il web wallet per eccellenza, sviluppato da uno degli sviluppatori principali fluffypony: mymonero.com
+
+
