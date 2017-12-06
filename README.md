@@ -27,3 +27,13 @@ Prima di connettersi ad un remote node, assicurarsi di aver chiuso il daemon (si
 ![Daemon remoto](https://getmonero.org/resources/user-guides/png/remote_node/remote-node-screenshot.png)
 
 Usando un remote node, il tempo medio di download è circa 5/10 minuti. Il tempo può variare in base alle caratteristiche tecniche del proprio computer e della rete a cui si è connessi.
+
+## D: Monero è una truffa: ho appena trasferito un po' di Monero sul mio nuovo address ma non compare nulla!11! I miei soldi son spariti
+
+Prima di dire che Monero sia una truffa, assicurarsi di aver eseguito tutti i passaggi elencati qua sotto:
+
+* L'address a cui si è inviato Monero è valido ed è giusto
+* La sincronizzazione della blockchain è finita (remoto o no non cambia)
+* Il computer è acceso ed è connesso stabilmente ad internet
+* L'eventuale exchange con cui si sta operando non è un exchange scam (Attenzione: durante i periodi di pump o dump, a causa dell'alto volume degli utenti, gli exchange faticano a star dietro a tutti le transazioni. Se per qualche ragione pensate di aver perso i soldi, contattate immediatamente il supporto dell'exchange).
+
