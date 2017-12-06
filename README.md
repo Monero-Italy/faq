@@ -13,7 +13,7 @@ https://play.google.com/store/apps/details?id=com.m2049r.xmrwallet
 
 Diffidate di progetti esterni che non sono garantiti dalla community di Monero, basta infatti una semplice ricerca sul web per capire se un progetto è una truffa (anche chiamato progetto scam).
 
-Se invece non volete installare alcun wallet, esiste il web wallet per eccellenza, sviluppato da uno degli sviluppatori principali fluffypony: http://mymonero.com
+Se invece non si vuole installare alcun wallet, esiste il web wallet per eccellenza, sviluppato da uno degli sviluppatori principali fluffypony: http://mymonero.com
 
 
 ## D: Blockchain? Devo scaricarla tutta? 
@@ -25,3 +25,5 @@ Semplicemente su Settings (Impostazioni) > Daemon address, mettete l'indirizzo d
 Prima di connettersi ad un remote node, assicurarsi di aver chiuso il daemon (si può vedere ciò dal pulsante "Stop daemon" disabilitato).
 
 ![Daemon remoto](https://getmonero.org/resources/user-guides/png/remote_node/remote-node-screenshot.png)
+
+Usando un remote node, il tempo medio di download è circa 5/10 minuti. Il tempo può variare in base alle caratteristiche tecniche del proprio computer e della rete a cui si è connessi.
