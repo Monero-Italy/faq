@@ -50,4 +50,5 @@ Un hard fork di Monero non è altro che un aggiornamento del protocollo, ciò si
 
 Nel processo dell'hard forking NON verranno create due blockchain, quindi non ci sarà una nuova moneta. 
 
-
+## Guide
+[Guida all'uso del wallet ufficiale di Monero](http://www.cryptominando.it/2018/02/14/guida-uso-wallet-monero/)
